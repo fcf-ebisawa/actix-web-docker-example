@@ -6,10 +6,6 @@ This repository is a sample web application that runs inside a Docker container 
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/your-repository/actix-web-docker-example.git
-   ```
-
 2. Build and Start the container:
 
    ```sh
